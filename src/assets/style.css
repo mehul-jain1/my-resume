@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #2c3e50;
+    font-weight: 700;
+}
+
+.contact-info {
+    margin-top: 10px;
+    font-size: 0.95em;
+    color: #555;
+}
+
+.contact-info a {
+    color: #3498db;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+ul {
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.job {
+    margin-bottom: 25px;
+}
+
+.job-title {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #333;
+}
+
+.job-title span {
+    font-weight: 400;
+    color: #555;
+    font-size: 0.9em;
+}
+
+.job-date {
+    float: right;
+    font-style: italic;
+    color: #777;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.skills-list li {
+    margin-bottom: 8px;
+}
+
+.skills-list strong {
+    color: #3498db;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.education-entry strong {
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+.education-entry i {
+    color: #555;
+}
+
+@media print {
+    body {
+        background-color: #fff;
+        font-size: 11pt;
+    }
+    .container {
+        box-shadow: none;
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        border-radius: 0;
+    }
+    h2 {
+        font-size: 14pt;
+    }
+    header h1 {
+        font-size: 20pt;
+    }
+    .contact-info a {
+        text-decoration: none;
+        color: #000;
+    }
+} 
