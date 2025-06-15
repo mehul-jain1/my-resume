@@ -26,6 +26,7 @@ baseurl: "/my-resume" # the subpath of your site, e.g. /blog
 url: "https://mehul-jain1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mehul1234561
 github_username:  mehul-jain1
+linkedin_username: mehuljain2
 
 header_pages:
   - about.markdown
