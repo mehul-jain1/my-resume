@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Authentication Notes"
 date:   2024-07-17 16:02:06 +0530
 categories: auth security

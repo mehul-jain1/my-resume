@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Tools and Technologies I Use"
 date:   2024-07-21 16:02:06 +0530
 categories: tools development

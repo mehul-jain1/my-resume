@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My Personal Git Cheat Sheet"
 date:   2024-07-19 16:02:06 +0530
 categories: git cheatsheet
@@ -171,18 +171,3 @@ when git prompts for change:
 ```
 git commit --amend --author="Author Name <email@address.com>" --no-edit
 ```
-
-checkout remote branch
-```
-git checkout -t <name of remote>/test
-```
-
-if there are multiple remotes:
-```
-git checkout -b test <name of remote>/test
-```
-
-delete remote branch from server
-```
-git push origin --delete {the_remote_branch}
-``` 

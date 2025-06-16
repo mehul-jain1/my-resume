@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Mehul's Notes"
 date:   2024-07-15 16:02:06 +0530
 categories: notes update

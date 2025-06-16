@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Docker Notes"
 date:   2024-07-16 16:02:06 +0530
 categories: docker development

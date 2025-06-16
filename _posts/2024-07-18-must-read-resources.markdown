@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Must-Read/Watch Resources for Developers"
 date:   2024-07-18 16:02:06 +0530
 categories: resources learning
