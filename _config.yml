@@ -22,7 +22,7 @@ title: Mehul Jain
 email: mehuljain160@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Full-Stack Engineer.
-baseurl: "/my-resume" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mehul-jain1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mehul1234561
 github_username:  mehul-jain1
